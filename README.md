@@ -1,18 +1,14 @@
 - 👋 Hi, I’m @primita96
-- 👀 I’m interested in:
-IT
-Cyber Security
-Python
-App developement
+- 👀 I’m interested in: IT & Cyber Security
 
 - 🌱 I’m currently learning:
-Python
-Security+
+
+Security+, Web hosting, network management
 
 - 💞️ I’m looking to collaborate on new projects that will expand my knowledge in app development and help me dive deeper into the python language.
 
 - 📫 Reach me at:
-Email: aaviles5@my.gcu.edu 
+Email: avilesadriana@live.com
 Discord: Adriana A#5812
 
 <!---
